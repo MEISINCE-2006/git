@@ -1,3 +1,3 @@
 this is my git learning 
 #this is branching
-#this is from bug branch
+#this is from main branch
