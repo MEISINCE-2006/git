@@ -1,2 +1,2 @@
 this is my git learning 
-#this is from bug branch
+#this is from new-bug branch
